@@ -1,0 +1,15 @@
+1)git config --global user.name "ramanbaghla89"
+
+2)git config --global user.email "ramanbaghla89@gmail.com"
+
+3)git clone "https://github.com/ramanbaghla89/hello-git.git" :- it clones a repository into a newly created directory in the local database.
+
+4)git status :- Show the working tree status. First we have to change the working directory to the newly created or it will show a error.
+
+5)git add . :- Add file contents to the repoistory.
+
+6)git commit -m "This is my first git commit" :- This command is used to commit the change made in the file that is to be added to the repository.
+
+7)git push -u origin master :- This command is used to update the repository the file that is to be added.
+
+
